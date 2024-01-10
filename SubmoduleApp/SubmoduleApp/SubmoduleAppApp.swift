@@ -11,7 +11,7 @@ import SwiftUI
 struct SubmoduleAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CustomContentView()
         }
     }
 }
